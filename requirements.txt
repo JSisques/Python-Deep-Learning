@@ -1,5 +1,5 @@
-tensorflow
 matplotlib
 numpy
 imageio
 ipykernel
+tensorflow-directml-plugin
